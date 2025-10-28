@@ -14,7 +14,7 @@ from geopy.distance import geodesic
 from geopy.geocoders import Nominatim
 import json
 import os
-
+st.write("✅ Приложение запущено!")
 # --- Streamlit Configuration (MUST BE AT THE TOP)
 st.set_page_config(
     page_title="🚨 ГО-Карта: Обучение по Приказу МЧС №429",
@@ -621,4 +621,4 @@ else:
                 st.success(f"✅ Здание '{building_purpose}' (ID: {building_id}) добавлено!")
 
                 # st.rerun() # Не перезапускаем, так как данные в памяти
-                st.write("🚀 Все готово!")
+                st.write("🚀 Все готово! Приложение работает.")
