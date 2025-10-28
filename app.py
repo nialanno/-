@@ -619,4 +619,6 @@ else:
                 new_row = pd.DataFrame([new_building])
                 st.session_state['buildings_df'] = pd.concat([st.session_state['buildings_df'], new_row], ignore_index=True)
                 st.success(f"✅ Здание '{building_purpose}' (ID: {building_id}) добавлено!")
+
                 # st.rerun() # Не перезапускаем, так как данные в памяти
+                st.write("🚀 Все готово!")
