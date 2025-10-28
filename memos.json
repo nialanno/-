@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Защита в чрезвычайных ситуациях",
+        "content": "Как действовать при различных ЧС.",
+        "image": "https://via.placeholder.com/300x200/f5a623/ffffff?text=Защита+в+ЧС",
+        "category": "Общее"
+    },
+    {
+        "title": "Пожарная безопасность",
+        "content": "Правила поведения при пожаре.",
+        "image": "https://via.placeholder.com/300x200/e74c3c/ffffff?text=Пожарная+безопасность",
+        "category": "Пожар"
+    },
+    {
+        "title": "Безопасность на водных объектах",
+        "content": "Правила безопасности на водоемах.",
+        "image": "https://via.placeholder.com/300x200/3498db/ffffff?text=Безопасность+на+воде",
+        "category": "Вода"
+    },
+    {
+        "title": "Первая помощь",
+        "content": "Основы оказания первой помощи.",
+        "image": "https://via.placeholder.com/300x200/2ecc71/ffffff?text=Первая+помощь",
+        "category": "Медицина"
+    },
+    {
+        "title": "Туристские группы",
+        "content": "Безопасность в походах и туризме.",
+        "image": "https://via.placeholder.com/300x200/9b59b6/ffffff?text=Туристские+группы",
+        "category": "Туризм"
+    }
+]
